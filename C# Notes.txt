@@ -1,0 +1,103 @@
+Char: uses single quotes
+String: uses double quotes
+
+int: used for integers
+
+Floats: used for numbers with decimals
+float: ~6-9 digits
+doubles: ~15-17 digits
+decimal: 28-29 digits
+
+Console.WriteLine(0.25F);
+Append the letter F or f after the number to create a float literal
+
+Console.WriteLine(2.625)
+Compiler defaults to double literal when a number is entered without a suffix
+
+Console.WriteLine(12.39816m)
+Append the letter m after the number to create a decimal literal
+
+bool: true or false
+
+implicitly typed local variable:
+uses var
+ -> var firstName = "Hello World!"
+var keyword tells the C# Complier that the data type is implied by the assigned value
+ -> var firstName = "Hello World!" -> string
+variables using var keyword must be initialized
+
+Working with strings:
+Uses \ to escape characters
+verbatim string literal
+ -> use @ symbol before string to keep all white space @ and you don't need to escape characters"       c:\source\repos"
+
+Math methods:
+Math.Round()
+Math.Pow()
+Math.Sqrt()
+Math.Min()
+Math.Max()
+Next()
+
+Methods for converting datatypes:
+ToString() -> Converts datatype to string
+Parse() -> Converts String to other datatype
+TryParse() -> Tries to parse as parse cannot convert non-numeric data-types
+
+ToDecimal()
+ToDouble()
+ToInt32()
+ToChar()
+ToBool()
+ToString()
+Format()
+
+toString() Formatting
+"c0" -> converts "19.95" to "$20". 0 indicates number of decimal places. Can also use :C
+"d3" -> indicates the min number of digits in the results -> 28.ToString("d3") -> "028"
+"p" -> formats it as percentage
+"n" -> formats the number with thousands seperators
+"f" -> formats the as number as a decimal with the specified number of decimal places
+"e" -> formats the number in scientific notation
+"g" -> formats the number as a decimal or in scientific notation
+
+enumerations:
+An enumeration is a set of related constants that defines a value type where each constant is known as a member of the enumeration.
+An enumeration is the values a property has. Ie FormBorderStyle -> FixedDialog, FixedSingle, Sizeable
+
+Syntax:
+enum EnumerationName : type
+{
+	ContantName1 = value
+	ContactName2 = value
+}
+enum TermValues : short
+{
+	Net30Days = 30,
+	Net60Days = 60,
+	Net90Days = 90
+}
+
+working with null:
+if a value might be null, follow the value type with a question mark
+int? quantity;
+quantity = null;
+quantity = 0;
+quantity = 20;
+
+.HasValue() -> returns true if variable has value, false if it doesn't
+.Value() -> returns value of variable
+
+Nullish coalescing operator
+int qty = quantity ?? -1
+
+salesTotal ??= 0.0m
+
+
+
+
+
+
+
+
+

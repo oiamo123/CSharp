@@ -1,0 +1,16 @@
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\Projects\ChickenOrEgg\ChickenOrEgg\bin\Debug\net8.0-windows\ChickenOrEgg.exe
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\Projects\ChickenOrEgg\ChickenOrEgg\bin\Debug\net8.0-windows\ChickenOrEgg.deps.json
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\Projects\ChickenOrEgg\ChickenOrEgg\bin\Debug\net8.0-windows\ChickenOrEgg.runtimeconfig.json
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\Projects\ChickenOrEgg\ChickenOrEgg\bin\Debug\net8.0-windows\ChickenOrEgg.dll
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\Projects\ChickenOrEgg\ChickenOrEgg\bin\Debug\net8.0-windows\ChickenOrEgg.pdb
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\Projects\ChickenOrEgg\ChickenOrEgg\obj\Debug\net8.0-windows\ChickenOrEgg.FrmQuestion.resources
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\Projects\ChickenOrEgg\ChickenOrEgg\obj\Debug\net8.0-windows\ChickenOrEgg.csproj.GenerateResource.cache
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\Projects\ChickenOrEgg\ChickenOrEgg\obj\Debug\net8.0-windows\ChickenOrEgg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\Projects\ChickenOrEgg\ChickenOrEgg\obj\Debug\net8.0-windows\ChickenOrEgg.AssemblyInfoInputs.cache
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\Projects\ChickenOrEgg\ChickenOrEgg\obj\Debug\net8.0-windows\ChickenOrEgg.AssemblyInfo.cs
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\Projects\ChickenOrEgg\ChickenOrEgg\obj\Debug\net8.0-windows\ChickenOrEgg.csproj.CoreCompileInputs.cache
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\Projects\ChickenOrEgg\ChickenOrEgg\obj\Debug\net8.0-windows\ChickenOrEgg.dll
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\Projects\ChickenOrEgg\ChickenOrEgg\obj\Debug\net8.0-windows\refint\ChickenOrEgg.dll
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\Projects\ChickenOrEgg\ChickenOrEgg\obj\Debug\net8.0-windows\ChickenOrEgg.pdb
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\Projects\ChickenOrEgg\ChickenOrEgg\obj\Debug\net8.0-windows\ChickenOrEgg.genruntimeconfig.cache
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\Projects\ChickenOrEgg\ChickenOrEgg\obj\Debug\net8.0-windows\ref\ChickenOrEgg.dll
