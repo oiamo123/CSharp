@@ -80,6 +80,7 @@
             txtHrRate.Name = "txtHrRate";
             txtHrRate.Size = new Size(115, 30);
             txtHrRate.TabIndex = 4;
+            txtHrRate.Tag = "Hourly rate";
             // 
             // txtHrsWorked
             // 
@@ -87,6 +88,7 @@
             txtHrsWorked.Name = "txtHrsWorked";
             txtHrsWorked.Size = new Size(115, 30);
             txtHrsWorked.TabIndex = 3;
+            txtHrsWorked.Tag = "Hours worked";
             // 
             // btnSubmit
             // 

@@ -31,6 +31,19 @@ Uses \ to escape characters
 verbatim string literal
  -> use @ symbol before string to keep all white space @ and you don't need to escape characters"       c:\source\repos"
 
+Working with Arrays:
+.Sort()
+.Reverse()
+.Clear(array, starting pos, number of elements)
+.Resize(arr, to size) -> can also use .Resize to remove array elements
+.ToCharArray()
+.Reverse()
+.Join()
+.Split()
+
+https://learn.microsoft.com/en-us/dotnet/api/system.array?view=net-8.0
+
+
 Math methods:
 Math.Round()
 Math.Pow()
@@ -93,11 +106,91 @@ int qty = quantity ?? -1
 
 salesTotal ??= 0.0m
 
+must enable nullable reference types (prior to .Net 6.0)
+at the file level:
+#nullable enable
+
+switch statements:
+switch (customerType)
+{
+	case "R":
+		discountPercent = .1m;
+		break;
+	case "C":
+		discountPercent =  .2m;
+		break;
+	default:
+		discountPercent = .0m;
+		break;
+}
+
+Pattern Matching:
+discount amount = subtotal switch
+{
+	>= 100.0m and <= 200.0m => subtotal * .2m,
+	> 200.0m and <= 500.0m => subtotal * .3m,
+	> 500.0m => subtotal * .4m,
+	=> .0m
+};
+
+ternary operator:
+subtotal >= 100 ? .1m : .05m
+
+while loops and do while loops:
+int i = 1;
+while (i <= months)
+{
+	futureValue = (futureValue + monthlyPayment) * (1 + monthlyInterestRate)
+	i++;
+}
+
+int i = 1
+do
+{
+	futureValue = (futureValue + monthlyPayment) * (1 + monthlyInterestRate)
+	i++;
+}
+while (i <= months)
+
+for loops:
+string numbers = "";
+for (int i = 0; i < 5; i++)
+	numbers += i + " ";
 
 
+int[] items = {1,2,3,4,5}
+foreach (int item in items)
+{
+	// do stuff
+}
 
+methods:
+static allows you to access the method without having to create an object copy of it first ie:
+class SomeClass {
+	public int InstanceMethod() {  return 1;  }
+	public static int StaticMethod() {  return 42;  }
+}
 
+someClass instance = new someClass()
+instance.InstanceMethod() // fine
+instance.StaticMethod() // Won't Compile
 
+SomeClass.InstanceMethod() // Won't Compile
+SomeClass.StaticMethod() // fine
 
+refer to https://stackoverflow.com/questions/4124102/whats-a-static-method-in-c?rq=3
 
+when passing arguments into methods, you can use "ref" as a suffix to reference a variable
+
+double x, y;
+Swap( ref x, ref y )
+
+this method will change the original x & y variables.
+
+private static void Swap(ref double a, ref double b)
+{
+	doube aux = a;
+	a = b;
+	b = aux;
+}
 

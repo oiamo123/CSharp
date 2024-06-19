@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gmoia\\OneDrive\\Desktop\\Coding stuff\\School\\CSharp\\Projects\\testing\\",
+  "WorkspaceRootPath": "C:\\Users\\gmoia\\OneDrive\\Desktop\\Coding stuff\\School\\CSharp\\WinForms\\testing\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BA75BD50-3516-436F-B8FB-E13EBB338C11}|testing\\testing.csproj|c:\\users\\gmoia\\onedrive\\desktop\\coding stuff\\school\\csharp\\projects\\testing\\testing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BA75BD50-3516-436F-B8FB-E13EBB338C11}|testing\\testing.csproj|c:\\users\\gmoia\\onedrive\\desktop\\coding stuff\\school\\csharp\\winforms\\testing\\testing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA75BD50-3516-436F-B8FB-E13EBB338C11}|testing\\testing.csproj|solutionrelative:testing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gmoia\\OneDrive\\Desktop\\Coding stuff\\School\\CSharp\\Projects\\testing\\testing\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\gmoia\\OneDrive\\Desktop\\Coding stuff\\School\\CSharp\\WinForms\\testing\\testing\\Program.cs",
               "RelativeDocumentMoniker": "testing\\Program.cs",
-              "ToolTip": "C:\\Users\\gmoia\\OneDrive\\Desktop\\Coding stuff\\School\\CSharp\\Projects\\testing\\testing\\Program.cs",
+              "ToolTip": "C:\\Users\\gmoia\\OneDrive\\Desktop\\Coding stuff\\School\\CSharp\\WinForms\\testing\\testing\\Program.cs",
               "RelativeToolTip": "testing\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-17T16:16:25.135Z",
               "EditorCaption": ""

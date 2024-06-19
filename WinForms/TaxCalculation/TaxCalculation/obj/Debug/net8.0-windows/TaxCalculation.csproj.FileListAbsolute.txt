@@ -1,0 +1,33 @@
+C:\Users\gmoia\source\repos\TaxCalculation\TaxCalculation\bin\Debug\net8.0-windows\TaxCalculation.exe
+C:\Users\gmoia\source\repos\TaxCalculation\TaxCalculation\bin\Debug\net8.0-windows\TaxCalculation.deps.json
+C:\Users\gmoia\source\repos\TaxCalculation\TaxCalculation\bin\Debug\net8.0-windows\TaxCalculation.runtimeconfig.json
+C:\Users\gmoia\source\repos\TaxCalculation\TaxCalculation\bin\Debug\net8.0-windows\TaxCalculation.dll
+C:\Users\gmoia\source\repos\TaxCalculation\TaxCalculation\bin\Debug\net8.0-windows\TaxCalculation.pdb
+C:\Users\gmoia\source\repos\TaxCalculation\TaxCalculation\obj\Debug\net8.0-windows\TaxCalculation.Form1.resources
+C:\Users\gmoia\source\repos\TaxCalculation\TaxCalculation\obj\Debug\net8.0-windows\TaxCalculation.csproj.GenerateResource.cache
+C:\Users\gmoia\source\repos\TaxCalculation\TaxCalculation\obj\Debug\net8.0-windows\TaxCalculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmoia\source\repos\TaxCalculation\TaxCalculation\obj\Debug\net8.0-windows\TaxCalculation.AssemblyInfoInputs.cache
+C:\Users\gmoia\source\repos\TaxCalculation\TaxCalculation\obj\Debug\net8.0-windows\TaxCalculation.AssemblyInfo.cs
+C:\Users\gmoia\source\repos\TaxCalculation\TaxCalculation\obj\Debug\net8.0-windows\TaxCalculation.csproj.CoreCompileInputs.cache
+C:\Users\gmoia\source\repos\TaxCalculation\TaxCalculation\obj\Debug\net8.0-windows\TaxCalculation.dll
+C:\Users\gmoia\source\repos\TaxCalculation\TaxCalculation\obj\Debug\net8.0-windows\refint\TaxCalculation.dll
+C:\Users\gmoia\source\repos\TaxCalculation\TaxCalculation\obj\Debug\net8.0-windows\TaxCalculation.pdb
+C:\Users\gmoia\source\repos\TaxCalculation\TaxCalculation\obj\Debug\net8.0-windows\TaxCalculation.genruntimeconfig.cache
+C:\Users\gmoia\source\repos\TaxCalculation\TaxCalculation\obj\Debug\net8.0-windows\ref\TaxCalculation.dll
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\TaxCalculation\TaxCalculation\bin\Debug\net8.0-windows\TaxCalculation.exe
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\TaxCalculation\TaxCalculation\bin\Debug\net8.0-windows\TaxCalculation.deps.json
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\TaxCalculation\TaxCalculation\bin\Debug\net8.0-windows\TaxCalculation.runtimeconfig.json
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\TaxCalculation\TaxCalculation\bin\Debug\net8.0-windows\TaxCalculation.dll
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\TaxCalculation\TaxCalculation\bin\Debug\net8.0-windows\TaxCalculation.pdb
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\TaxCalculation\TaxCalculation\obj\Debug\net8.0-windows\TaxCalculation.Form1.resources
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\TaxCalculation\TaxCalculation\obj\Debug\net8.0-windows\TaxCalculation.csproj.GenerateResource.cache
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\TaxCalculation\TaxCalculation\obj\Debug\net8.0-windows\TaxCalculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\TaxCalculation\TaxCalculation\obj\Debug\net8.0-windows\TaxCalculation.AssemblyInfoInputs.cache
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\TaxCalculation\TaxCalculation\obj\Debug\net8.0-windows\TaxCalculation.AssemblyInfo.cs
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\TaxCalculation\TaxCalculation\obj\Debug\net8.0-windows\TaxCalculation.csproj.CoreCompileInputs.cache
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\TaxCalculation\TaxCalculation\obj\Debug\net8.0-windows\TaxCalculation.sourcelink.json
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\TaxCalculation\TaxCalculation\obj\Debug\net8.0-windows\TaxCalculation.dll
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\TaxCalculation\TaxCalculation\obj\Debug\net8.0-windows\refint\TaxCalculation.dll
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\TaxCalculation\TaxCalculation\obj\Debug\net8.0-windows\TaxCalculation.pdb
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\TaxCalculation\TaxCalculation\obj\Debug\net8.0-windows\TaxCalculation.genruntimeconfig.cache
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\TaxCalculation\TaxCalculation\obj\Debug\net8.0-windows\ref\TaxCalculation.dll

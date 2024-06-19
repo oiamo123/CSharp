@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gmoia\\OneDrive\\Desktop\\Coding stuff\\School\\CSharp\\Projects\\HourlyRate\\HourlyRate\\HourlyRate.csproj",
+      "projectUniqueName": "C:\\Users\\gmoia\\OneDrive\\Desktop\\Coding stuff\\School\\CSharp\\WinForms\\HourlyRate\\HourlyRate\\HourlyRate.csproj",
       "projectName": "HourlyRate",
-      "projectPath": "C:\\Users\\gmoia\\OneDrive\\Desktop\\Coding stuff\\School\\CSharp\\Projects\\HourlyRate\\HourlyRate\\HourlyRate.csproj",
+      "projectPath": "C:\\Users\\gmoia\\OneDrive\\Desktop\\Coding stuff\\School\\CSharp\\WinForms\\HourlyRate\\HourlyRate\\HourlyRate.csproj",
       "packagesPath": "C:\\Users\\gmoia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gmoia\\OneDrive\\Desktop\\Coding stuff\\School\\CSharp\\Projects\\HourlyRate\\HourlyRate\\obj\\",
+      "outputPath": "C:\\Users\\gmoia\\OneDrive\\Desktop\\Coding stuff\\School\\CSharp\\WinForms\\HourlyRate\\HourlyRate\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
