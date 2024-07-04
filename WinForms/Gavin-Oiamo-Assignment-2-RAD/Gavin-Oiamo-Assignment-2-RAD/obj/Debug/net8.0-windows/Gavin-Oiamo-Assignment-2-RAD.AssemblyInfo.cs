@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gavin-Oiamo-Assignment-2-RAD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+423a74e363e4678e58489b1a970b1e9843b6edcd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+489a42f2111ca8ad409cd6680e16ad42229e875c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gavin-Oiamo-Assignment-2-RAD")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gavin-Oiamo-Assignment-2-RAD")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

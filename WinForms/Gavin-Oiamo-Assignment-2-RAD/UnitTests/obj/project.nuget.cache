@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "mgHwjoktCr0=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\gmoia\\OneDrive\\Desktop\\Coding stuff\\School\\CSharp\\WinForms\\Gavin-Oiamo-Assignment-2-RAD\\UnitTests\\UnitTests.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project CustomerData is not compatible with net8.0 (.NETCoreApp,Version=v8.0). Project CustomerData supports: net8.0-windows7.0 (.NETCoreApp,Version=v8.0)",
+      "libraryId": "CustomerData",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

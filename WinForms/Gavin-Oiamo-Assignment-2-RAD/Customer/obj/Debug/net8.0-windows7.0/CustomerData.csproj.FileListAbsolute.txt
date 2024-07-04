@@ -1,0 +1,16 @@
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\Gavin-Oiamo-Assignment-2-RAD\Customer\bin\Debug\net8.0-windows7.0\CustomerData.deps.json
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\Gavin-Oiamo-Assignment-2-RAD\Customer\bin\Debug\net8.0-windows7.0\CustomerData.dll
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\Gavin-Oiamo-Assignment-2-RAD\Customer\bin\Debug\net8.0-windows7.0\CustomerData.pdb
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\Gavin-Oiamo-Assignment-2-RAD\Customer\bin\Debug\net8.0-windows7.0\Transaction_Class.dll
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\Gavin-Oiamo-Assignment-2-RAD\Customer\bin\Debug\net8.0-windows7.0\Transaction_Class.pdb
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\Gavin-Oiamo-Assignment-2-RAD\Customer\obj\Debug\net8.0-windows7.0\CustomerData.csproj.AssemblyReference.cache
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\Gavin-Oiamo-Assignment-2-RAD\Customer\obj\Debug\net8.0-windows7.0\CustomerData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\Gavin-Oiamo-Assignment-2-RAD\Customer\obj\Debug\net8.0-windows7.0\CustomerData.AssemblyInfoInputs.cache
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\Gavin-Oiamo-Assignment-2-RAD\Customer\obj\Debug\net8.0-windows7.0\CustomerData.AssemblyInfo.cs
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\Gavin-Oiamo-Assignment-2-RAD\Customer\obj\Debug\net8.0-windows7.0\CustomerData.csproj.CoreCompileInputs.cache
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\Gavin-Oiamo-Assignment-2-RAD\Customer\obj\Debug\net8.0-windows7.0\CustomerData.sourcelink.json
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\Gavin-Oiamo-Assignment-2-RAD\Customer\obj\Debug\net8.0-windows7.0\Customer.AD58FDD4.Up2Date
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\Gavin-Oiamo-Assignment-2-RAD\Customer\obj\Debug\net8.0-windows7.0\CustomerData.dll
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\Gavin-Oiamo-Assignment-2-RAD\Customer\obj\Debug\net8.0-windows7.0\refint\CustomerData.dll
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\Gavin-Oiamo-Assignment-2-RAD\Customer\obj\Debug\net8.0-windows7.0\CustomerData.pdb
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\Gavin-Oiamo-Assignment-2-RAD\Customer\obj\Debug\net8.0-windows7.0\ref\CustomerData.dll

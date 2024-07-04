@@ -43,6 +43,14 @@ Working with Arrays:
 
 https://learn.microsoft.com/en-us/dotnet/api/system.array?view=net-8.0
 
+TextBox methods:
+.SelectAll()
+.Focus()
+
+MessageBox:
+alert window ->
+MessageBox.Show()
+
 
 Math methods:
 Math.Round()
@@ -194,3 +202,62 @@ private static void Swap(ref double a, ref double b)
 	b = aux;
 }
 
+tuples:
+create a tuple with 2 members:
+var person = ("John Doe", 47)
+
+refer to them similarly to an object:
+person.Item1
+person.Item2
+
+can also used named tuples:
+var person = (name: "John Doe", age: 47)
+
+person.name
+person.age
+or:
+
+(string name, int age) person = (name: "John Doe", age: 47)
+
+tuples in methods:
+
+private (decimal num1, decimal num2) myFunc(// args here)
+{
+	// my code here
+	return (num1, num2)
+}
+
+exception handling:
+try ... catch blocks
+
+Json get requests:
+
+within async function:
+using HttpClient client = new HttpClient();
+
+try
+{
+    // Make the GET request
+    HttpResponseMessage response = await client.GetAsync("http://127.0.0.1:8000/api/register");
+    response.EnsureSuccessStatusCode();
+
+    // Read the response content as a string
+    string jsonResponse = await response.Content.ReadAsStringAsync();
+
+    // Parse the JSON response
+    var jsonObject = JsonNode.Parse(jsonResponse).AsArray();
+    Console.WriteLine(jsonObject[0]);
+}
+catch (Exception ex)
+{
+    Console.WriteLine($"An error occurred: {ex.Message}");
+}
+
+unit testing:
+Arrange: Initialize objects and data to be passed to method under test 
+Act: Invoke the method with the arranged parameters
+Assert: verify that the method behaves as expected
+
+
+ASP.NET Core MVC
+.NET Blazor

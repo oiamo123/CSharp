@@ -1,0 +1,15 @@
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\DateOfBirthConsoleApp\DateOfBirthConsoleApp\bin\Debug\net8.0\DateOfBirthConsoleApp.exe
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\DateOfBirthConsoleApp\DateOfBirthConsoleApp\bin\Debug\net8.0\DateOfBirthConsoleApp.deps.json
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\DateOfBirthConsoleApp\DateOfBirthConsoleApp\bin\Debug\net8.0\DateOfBirthConsoleApp.runtimeconfig.json
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\DateOfBirthConsoleApp\DateOfBirthConsoleApp\bin\Debug\net8.0\DateOfBirthConsoleApp.dll
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\DateOfBirthConsoleApp\DateOfBirthConsoleApp\bin\Debug\net8.0\DateOfBirthConsoleApp.pdb
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\DateOfBirthConsoleApp\DateOfBirthConsoleApp\obj\Debug\net8.0\DateOfBirthConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\DateOfBirthConsoleApp\DateOfBirthConsoleApp\obj\Debug\net8.0\DateOfBirthConsoleApp.AssemblyInfoInputs.cache
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\DateOfBirthConsoleApp\DateOfBirthConsoleApp\obj\Debug\net8.0\DateOfBirthConsoleApp.AssemblyInfo.cs
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\DateOfBirthConsoleApp\DateOfBirthConsoleApp\obj\Debug\net8.0\DateOfBirthConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\DateOfBirthConsoleApp\DateOfBirthConsoleApp\obj\Debug\net8.0\DateOfBirthConsoleApp.sourcelink.json
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\DateOfBirthConsoleApp\DateOfBirthConsoleApp\obj\Debug\net8.0\DateOfBirthConsoleApp.dll
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\DateOfBirthConsoleApp\DateOfBirthConsoleApp\obj\Debug\net8.0\refint\DateOfBirthConsoleApp.dll
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\DateOfBirthConsoleApp\DateOfBirthConsoleApp\obj\Debug\net8.0\DateOfBirthConsoleApp.pdb
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\DateOfBirthConsoleApp\DateOfBirthConsoleApp\obj\Debug\net8.0\DateOfBirthConsoleApp.genruntimeconfig.cache
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\DateOfBirthConsoleApp\DateOfBirthConsoleApp\obj\Debug\net8.0\ref\DateOfBirthConsoleApp.dll

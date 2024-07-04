@@ -1,0 +1,23 @@
+C:\Users\jwarpech\source\repos\BankingApp\Banking Classes\bin\Debug\net8.0\Banking Classes.deps.json
+C:\Users\jwarpech\source\repos\BankingApp\Banking Classes\bin\Debug\net8.0\Banking Classes.dll
+C:\Users\jwarpech\source\repos\BankingApp\Banking Classes\bin\Debug\net8.0\Banking Classes.pdb
+C:\Users\jwarpech\source\repos\BankingApp\Banking Classes\obj\Debug\net8.0\Banking Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jwarpech\source\repos\BankingApp\Banking Classes\obj\Debug\net8.0\Banking Classes.AssemblyInfoInputs.cache
+C:\Users\jwarpech\source\repos\BankingApp\Banking Classes\obj\Debug\net8.0\Banking Classes.AssemblyInfo.cs
+C:\Users\jwarpech\source\repos\BankingApp\Banking Classes\obj\Debug\net8.0\Banking Classes.csproj.CoreCompileInputs.cache
+C:\Users\jwarpech\source\repos\BankingApp\Banking Classes\obj\Debug\net8.0\Banking Classes.dll
+C:\Users\jwarpech\source\repos\BankingApp\Banking Classes\obj\Debug\net8.0\refint\Banking Classes.dll
+C:\Users\jwarpech\source\repos\BankingApp\Banking Classes\obj\Debug\net8.0\Banking Classes.pdb
+C:\Users\jwarpech\source\repos\BankingApp\Banking Classes\obj\Debug\net8.0\ref\Banking Classes.dll
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\BankingApp\Banking Classes\bin\Debug\net8.0\Banking Classes.deps.json
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\BankingApp\Banking Classes\bin\Debug\net8.0\Banking Classes.dll
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\BankingApp\Banking Classes\bin\Debug\net8.0\Banking Classes.pdb
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\BankingApp\Banking Classes\obj\Debug\net8.0\Banking Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\BankingApp\Banking Classes\obj\Debug\net8.0\Banking Classes.AssemblyInfoInputs.cache
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\BankingApp\Banking Classes\obj\Debug\net8.0\Banking Classes.AssemblyInfo.cs
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\BankingApp\Banking Classes\obj\Debug\net8.0\Banking Classes.csproj.CoreCompileInputs.cache
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\BankingApp\Banking Classes\obj\Debug\net8.0\Banking Classes.sourcelink.json
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\BankingApp\Banking Classes\obj\Debug\net8.0\Banking Classes.dll
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\BankingApp\Banking Classes\obj\Debug\net8.0\refint\Banking Classes.dll
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\BankingApp\Banking Classes\obj\Debug\net8.0\Banking Classes.pdb
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\BankingApp\Banking Classes\obj\Debug\net8.0\ref\Banking Classes.dll

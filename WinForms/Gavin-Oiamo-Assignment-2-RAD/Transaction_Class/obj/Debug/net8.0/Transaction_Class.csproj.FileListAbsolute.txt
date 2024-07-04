@@ -1,0 +1,12 @@
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\Gavin-Oiamo-Assignment-2-RAD\Transaction_Class\bin\Debug\net8.0\Transaction_Class.deps.json
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\Gavin-Oiamo-Assignment-2-RAD\Transaction_Class\bin\Debug\net8.0\Transaction_Class.dll
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\Gavin-Oiamo-Assignment-2-RAD\Transaction_Class\bin\Debug\net8.0\Transaction_Class.pdb
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\Gavin-Oiamo-Assignment-2-RAD\Transaction_Class\obj\Debug\net8.0\Transaction_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\Gavin-Oiamo-Assignment-2-RAD\Transaction_Class\obj\Debug\net8.0\Transaction_Class.AssemblyInfoInputs.cache
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\Gavin-Oiamo-Assignment-2-RAD\Transaction_Class\obj\Debug\net8.0\Transaction_Class.AssemblyInfo.cs
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\Gavin-Oiamo-Assignment-2-RAD\Transaction_Class\obj\Debug\net8.0\Transaction_Class.csproj.CoreCompileInputs.cache
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\Gavin-Oiamo-Assignment-2-RAD\Transaction_Class\obj\Debug\net8.0\Transaction_Class.sourcelink.json
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\Gavin-Oiamo-Assignment-2-RAD\Transaction_Class\obj\Debug\net8.0\Transaction_Class.dll
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\Gavin-Oiamo-Assignment-2-RAD\Transaction_Class\obj\Debug\net8.0\refint\Transaction_Class.dll
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\Gavin-Oiamo-Assignment-2-RAD\Transaction_Class\obj\Debug\net8.0\Transaction_Class.pdb
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\Gavin-Oiamo-Assignment-2-RAD\Transaction_Class\obj\Debug\net8.0\ref\Transaction_Class.dll

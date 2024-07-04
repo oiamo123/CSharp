@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gmoia\\OneDrive\\Desktop\\Coding stuff\\School\\CSharp\\WinUI\\WinUITest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD41885-BF46-4EF9-AC78-4070B074D3B7}|WinUITest\\WinUITest.csproj|c:\\users\\gmoia\\onedrive\\desktop\\coding stuff\\school\\csharp\\winui\\winuitest\\winuitest\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6FD41885-BF46-4EF9-AC78-4070B074D3B7}|WinUITest\\WinUITest.csproj|solutionrelative:winuitest\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\gmoia\\OneDrive\\Desktop\\Coding stuff\\School\\CSharp\\WinUI\\WinUITest\\WinUITest\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WinUITest\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\gmoia\\OneDrive\\Desktop\\Coding stuff\\School\\CSharp\\WinUI\\WinUITest\\WinUITest\\MainWindow.xaml*",
+              "RelativeToolTip": "WinUITest\\MainWindow.xaml*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-26T18:29:03.487Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

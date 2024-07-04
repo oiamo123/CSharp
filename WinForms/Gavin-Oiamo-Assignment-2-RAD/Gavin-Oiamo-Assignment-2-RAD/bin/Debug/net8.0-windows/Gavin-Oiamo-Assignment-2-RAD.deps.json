@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Gavin-Oiamo-Assignment-2-RAD/1.0.0": {
+        "dependencies": {
+          "CustomerData": "1.0.0",
+          "Transaction_Class": "1.0.0"
+        },
+        "runtime": {
+          "Gavin-Oiamo-Assignment-2-RAD.dll": {}
+        }
+      },
+      "CustomerData/1.0.0": {
+        "dependencies": {
+          "Transaction_Class": "1.0.0"
+        },
+        "runtime": {
+          "CustomerData.dll": {}
+        }
+      },
+      "Transaction_Class/1.0.0": {
+        "runtime": {
+          "Transaction_Class.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gavin-Oiamo-Assignment-2-RAD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CustomerData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Transaction_Class/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

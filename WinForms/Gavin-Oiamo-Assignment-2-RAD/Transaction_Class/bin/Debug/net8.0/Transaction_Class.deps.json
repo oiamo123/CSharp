@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Transaction_Class/1.0.0": {
+        "runtime": {
+          "Transaction_Class.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Transaction_Class/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

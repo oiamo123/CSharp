@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gmoia\\OneDrive\\Desktop\\Coding stuff\\School\\CSharp\\WinForms\\ProductMaintenance Ch 14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF36AD76-FB29-475D-AEED-13229A7139F3}|ProductMaintenance\\ProductMaintenance.csproj|c:\\users\\gmoia\\onedrive\\desktop\\coding stuff\\school\\csharp\\winforms\\productmaintenance ch 14\\productmaintenance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF36AD76-FB29-475D-AEED-13229A7139F3}|ProductMaintenance\\ProductMaintenance.csproj|solutionrelative:productmaintenance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF36AD76-FB29-475D-AEED-13229A7139F3}|ProductMaintenance\\ProductMaintenance.csproj|c:\\users\\gmoia\\onedrive\\desktop\\coding stuff\\school\\csharp\\winforms\\productmaintenance ch 14\\productmaintenance\\productlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF36AD76-FB29-475D-AEED-13229A7139F3}|ProductMaintenance\\ProductMaintenance.csproj|solutionrelative:productmaintenance\\productlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF36AD76-FB29-475D-AEED-13229A7139F3}|ProductMaintenance\\ProductMaintenance.csproj|c:\\users\\gmoia\\onedrive\\desktop\\coding stuff\\school\\csharp\\winforms\\productmaintenance ch 14\\productmaintenance\\productdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF36AD76-FB29-475D-AEED-13229A7139F3}|ProductMaintenance\\ProductMaintenance.csproj|solutionrelative:productmaintenance\\productdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF36AD76-FB29-475D-AEED-13229A7139F3}|ProductMaintenance\\ProductMaintenance.csproj|c:\\users\\gmoia\\onedrive\\desktop\\coding stuff\\school\\csharp\\winforms\\productmaintenance ch 14\\productmaintenance\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF36AD76-FB29-475D-AEED-13229A7139F3}|ProductMaintenance\\ProductMaintenance.csproj|solutionrelative:productmaintenance\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF36AD76-FB29-475D-AEED-13229A7139F3}|ProductMaintenance\\ProductMaintenance.csproj|c:\\users\\gmoia\\onedrive\\desktop\\coding stuff\\school\\csharp\\winforms\\productmaintenance ch 14\\productmaintenance\\software.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF36AD76-FB29-475D-AEED-13229A7139F3}|ProductMaintenance\\ProductMaintenance.csproj|solutionrelative:productmaintenance\\software.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF36AD76-FB29-475D-AEED-13229A7139F3}|ProductMaintenance\\ProductMaintenance.csproj|c:\\users\\gmoia\\onedrive\\desktop\\coding stuff\\school\\csharp\\winforms\\productmaintenance ch 14\\productmaintenance\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF36AD76-FB29-475D-AEED-13229A7139F3}|ProductMaintenance\\ProductMaintenance.csproj|solutionrelative:productmaintenance\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gmoia\\OneDrive\\Desktop\\Coding stuff\\School\\CSharp\\WinForms\\ProductMaintenance Ch 14\\ProductMaintenance\\Program.cs",
+              "RelativeDocumentMoniker": "ProductMaintenance\\Program.cs",
+              "ToolTip": "C:\\Users\\gmoia\\OneDrive\\Desktop\\Coding stuff\\School\\CSharp\\WinForms\\ProductMaintenance Ch 14\\ProductMaintenance\\Program.cs",
+              "RelativeToolTip": "ProductMaintenance\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T19:47:40.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductList.cs",
+              "DocumentMoniker": "C:\\Users\\gmoia\\OneDrive\\Desktop\\Coding stuff\\School\\CSharp\\WinForms\\ProductMaintenance Ch 14\\ProductMaintenance\\ProductList.cs",
+              "RelativeDocumentMoniker": "ProductMaintenance\\ProductList.cs",
+              "ToolTip": "C:\\Users\\gmoia\\OneDrive\\Desktop\\Coding stuff\\School\\CSharp\\WinForms\\ProductMaintenance Ch 14\\ProductMaintenance\\ProductList.cs",
+              "RelativeToolTip": "ProductMaintenance\\ProductList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T15:06:58.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\gmoia\\OneDrive\\Desktop\\Coding stuff\\School\\CSharp\\WinForms\\ProductMaintenance Ch 14\\ProductMaintenance\\Product.cs",
+              "RelativeDocumentMoniker": "ProductMaintenance\\Product.cs",
+              "ToolTip": "C:\\Users\\gmoia\\OneDrive\\Desktop\\Coding stuff\\School\\CSharp\\WinForms\\ProductMaintenance Ch 14\\ProductMaintenance\\Product.cs",
+              "RelativeToolTip": "ProductMaintenance\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T15:03:43.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Software.cs",
+              "DocumentMoniker": "C:\\Users\\gmoia\\OneDrive\\Desktop\\Coding stuff\\School\\CSharp\\WinForms\\ProductMaintenance Ch 14\\ProductMaintenance\\Software.cs",
+              "RelativeDocumentMoniker": "ProductMaintenance\\Software.cs",
+              "ToolTip": "C:\\Users\\gmoia\\OneDrive\\Desktop\\Coding stuff\\School\\CSharp\\WinForms\\ProductMaintenance Ch 14\\ProductMaintenance\\Software.cs",
+              "RelativeToolTip": "ProductMaintenance\\Software.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T15:02:12.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\gmoia\\OneDrive\\Desktop\\Coding stuff\\School\\CSharp\\WinForms\\ProductMaintenance Ch 14\\ProductMaintenance\\Book.cs",
+              "RelativeDocumentMoniker": "ProductMaintenance\\Book.cs",
+              "ToolTip": "C:\\Users\\gmoia\\OneDrive\\Desktop\\Coding stuff\\School\\CSharp\\WinForms\\ProductMaintenance Ch 14\\ProductMaintenance\\Book.cs",
+              "RelativeToolTip": "ProductMaintenance\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T15:02:08.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDB.cs",
+              "DocumentMoniker": "C:\\Users\\gmoia\\OneDrive\\Desktop\\Coding stuff\\School\\CSharp\\WinForms\\ProductMaintenance Ch 14\\ProductMaintenance\\ProductDB.cs",
+              "RelativeDocumentMoniker": "ProductMaintenance\\ProductDB.cs",
+              "ToolTip": "C:\\Users\\gmoia\\OneDrive\\Desktop\\Coding stuff\\School\\CSharp\\WinForms\\ProductMaintenance Ch 14\\ProductMaintenance\\ProductDB.cs",
+              "RelativeToolTip": "ProductMaintenance\\ProductDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T14:57:02.075Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

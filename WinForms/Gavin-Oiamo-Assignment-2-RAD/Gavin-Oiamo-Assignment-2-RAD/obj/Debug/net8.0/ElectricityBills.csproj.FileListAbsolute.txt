@@ -1,0 +1,10 @@
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\Gavin-Oiamo-Assignment-2-RAD\Gavin-Oiamo-Assignment-2-RAD\obj\Debug\net8.0\ElectricityBills.csproj.AssemblyReference.cache
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\Gavin-Oiamo-Assignment-2-RAD\Gavin-Oiamo-Assignment-2-RAD\obj\Debug\net8.0\Gavin_Oiamo_Assignment_2_RAD.Confirm.resources
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\Gavin-Oiamo-Assignment-2-RAD\Gavin-Oiamo-Assignment-2-RAD\obj\Debug\net8.0\Gavin_Oiamo_Assignment_2_RAD.Form1.resources
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\Gavin-Oiamo-Assignment-2-RAD\Gavin-Oiamo-Assignment-2-RAD\obj\Debug\net8.0\Gavin_Oiamo_Assignment_2_RAD.Statistics.resources
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\Gavin-Oiamo-Assignment-2-RAD\Gavin-Oiamo-Assignment-2-RAD\obj\Debug\net8.0\ElectricityBills.csproj.GenerateResource.cache
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\Gavin-Oiamo-Assignment-2-RAD\Gavin-Oiamo-Assignment-2-RAD\obj\Debug\net8.0\ElectricityBills.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\Gavin-Oiamo-Assignment-2-RAD\Gavin-Oiamo-Assignment-2-RAD\obj\Debug\net8.0\ElectricityBills.AssemblyInfoInputs.cache
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\Gavin-Oiamo-Assignment-2-RAD\Gavin-Oiamo-Assignment-2-RAD\obj\Debug\net8.0\ElectricityBills.AssemblyInfo.cs
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\Gavin-Oiamo-Assignment-2-RAD\Gavin-Oiamo-Assignment-2-RAD\obj\Debug\net8.0\ElectricityBills.csproj.CoreCompileInputs.cache
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\Gavin-Oiamo-Assignment-2-RAD\Gavin-Oiamo-Assignment-2-RAD\obj\Debug\net8.0\ElectricityBills.sourcelink.json
