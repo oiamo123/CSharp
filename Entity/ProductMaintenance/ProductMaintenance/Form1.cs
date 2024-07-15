@@ -6,6 +6,7 @@
 
 using System.Collections.Generic;
 using System.Diagnostics;
+using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
 using ProductMaintenance.Data;
 using ProductMaintenance.Models;
@@ -56,7 +57,20 @@ namespace ProductMaintenance
         /// <param name="e"></param>
         private void Form1_Load(object sender, EventArgs e)
         {
-            updateLstBox();
+            try
+            {
+                updateLstBox();
+            }
+            catch (SqlException)
+            {
+                MessageBox.Show($"There was a sql error. \n At: Form1_Load",
+                    "Sql Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"There was an unexpected error \n {ex.Message} \n At: Form1_Load", 
+                    "Unexpected error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
         }
 
         /// <summary>
@@ -68,7 +82,7 @@ namespace ProductMaintenance
         {
             openModify("Add");
         }
-        
+
         /// <summary>
         /// Opens a new dialog to either modify or add data
         /// </summary>
@@ -76,7 +90,7 @@ namespace ProductMaintenance
         private void openModify(string type)
         {
             string prodId = ""; // for product code
-            
+
             // turns ListBox string into Product code -> "TEST10"
             if (lstProducts.SelectedItem != null)
                 prodId = lstProducts.SelectedItem.ToString()
@@ -93,21 +107,28 @@ namespace ProductMaintenance
         public void updateLstBox()
         {
             lstProducts.Items.Clear(); // clears listbox
-            var products = context.Products.Select(p => new // Queries for all products
-            {
-                p.ProductCode,
-                p.Name,
-                p.Version,
-                ReleaseDate = p.ReleaseDate.ToString("dd/MM/yyyy", 
+            
+            
+                var products = context.Products.Select(p => new // Queries for all products
+                {
+                    p.ProductCode,
+                    p.Name,
+                    p.Version,
+                    ReleaseDate = p.ReleaseDate.ToString("dd/MM/yyyy",
                 System.Globalization.CultureInfo.InvariantCulture)
-            }).ToList();
+                }).ToList();
 
-            foreach (var p in products) // foreach product, add it into the listbox
-            {
-                lstProducts.Items.Add(
-                    $"{p.ProductCode.TrimEnd().PadRight(14)}{p.Name.PadRight(33)}" +
-                    $"{p.Version.ToString().PadRight(8)}{p.ReleaseDate}");
-            }
+                if (products == null) throw new Exception("Query could not complete \n At: updateLstBox()");
+
+                foreach (var p in products) // foreach product, add it into the listbox
+                {
+                    lstProducts.Items.Add(
+                        $"{p.ProductCode.TrimEnd().PadRight(14)}{p.Name.PadRight(33)}" +
+                        $"{p.Version.ToString().PadRight(8)}{p.ReleaseDate}");
+                }
+            
+
+            
         }
 
         /// <summary>
@@ -120,11 +141,11 @@ namespace ProductMaintenance
             try
             {
                 // check that an item has been selected
-                if (lstProducts.SelectedItem == null) 
+                if (lstProducts.SelectedItem == null)
                     throw new Exception("You must select an item");
 
                 // confirm user wants to remove product
-                DialogResult answer = MessageBox.Show("Are you sure you want to remove this product?", 
+                DialogResult answer = MessageBox.Show("Are you sure you want to remove this product?",
                     "Confirm", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
 
                 if (answer == DialogResult.Yes)
@@ -140,7 +161,7 @@ namespace ProductMaintenance
                     context.Products.Remove(product); // remove product
                     context.SaveChanges(); // save changes
                     updateLstBox(); // update listbox
-                }                                
+                }
             }
             catch (Exception ex)
             {

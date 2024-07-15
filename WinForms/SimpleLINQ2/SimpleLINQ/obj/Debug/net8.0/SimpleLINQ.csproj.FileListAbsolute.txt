@@ -1,0 +1,15 @@
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\SimpleLINQ\SimpleLINQ\bin\Debug\net8.0\SimpleLINQ.exe
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\SimpleLINQ\SimpleLINQ\bin\Debug\net8.0\SimpleLINQ.deps.json
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\SimpleLINQ\SimpleLINQ\bin\Debug\net8.0\SimpleLINQ.runtimeconfig.json
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\SimpleLINQ\SimpleLINQ\bin\Debug\net8.0\SimpleLINQ.dll
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\SimpleLINQ\SimpleLINQ\bin\Debug\net8.0\SimpleLINQ.pdb
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\SimpleLINQ\SimpleLINQ\obj\Debug\net8.0\SimpleLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\SimpleLINQ\SimpleLINQ\obj\Debug\net8.0\SimpleLINQ.AssemblyInfoInputs.cache
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\SimpleLINQ\SimpleLINQ\obj\Debug\net8.0\SimpleLINQ.AssemblyInfo.cs
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\SimpleLINQ\SimpleLINQ\obj\Debug\net8.0\SimpleLINQ.csproj.CoreCompileInputs.cache
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\SimpleLINQ\SimpleLINQ\obj\Debug\net8.0\SimpleLINQ.sourcelink.json
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\SimpleLINQ\SimpleLINQ\obj\Debug\net8.0\SimpleLINQ.dll
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\SimpleLINQ\SimpleLINQ\obj\Debug\net8.0\refint\SimpleLINQ.dll
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\SimpleLINQ\SimpleLINQ\obj\Debug\net8.0\SimpleLINQ.pdb
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\SimpleLINQ\SimpleLINQ\obj\Debug\net8.0\SimpleLINQ.genruntimeconfig.cache
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\WinForms\SimpleLINQ\SimpleLINQ\obj\Debug\net8.0\ref\SimpleLINQ.dll

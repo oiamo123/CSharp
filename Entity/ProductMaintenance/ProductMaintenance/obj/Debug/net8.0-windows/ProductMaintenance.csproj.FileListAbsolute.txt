@@ -131,3 +131,6 @@ C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\Entity\ProductMainten
 C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\Entity\ProductMaintenance\ProductMaintenance\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\Entity\ProductMaintenance\ProductMaintenance\obj\Debug\net8.0-windows\ProductMaintenance.csproj.AssemblyReference.cache
 C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\Entity\ProductMaintenance\ProductMaintenance\obj\Debug\net8.0-windows\ProductM.0C51487B.Up2Date
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\Entity\ProductMaintenance\ProductMaintenance\bin\Debug\net8.0-windows\ProductMaintenance.dll.config
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\Entity\ProductMaintenance\ProductMaintenance\bin\Debug\net8.0-windows\Castle.Core.dll
+C:\Users\gmoia\OneDrive\Desktop\Coding stuff\School\CSharp\Entity\ProductMaintenance\ProductMaintenance\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll

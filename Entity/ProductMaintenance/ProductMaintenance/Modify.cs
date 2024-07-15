@@ -16,7 +16,7 @@ namespace ProductMaintenance
         TechSupportContext context = new TechSupportContext(); // references db
         Validation validator = new Validation(); // Creates instance of validation
 
-        string prodId { get; set; } // Product Code passed in from List box selected item
+        string? prodId { get; set; } = null; // Product Code passed in from List box selected item
         string type { get; set; } // Type is either "Add" or "Modify"
         Form1 formMain { get; set; } // References Form1 / Product main form
 
@@ -26,7 +26,7 @@ namespace ProductMaintenance
         /// <param name="type">Type ie "Add" or "Modify"</param>
         /// <param name="formMain">Reference to main form</param>
         /// <param name="prodId">Product Code</param>
-        public Modify(string type, Form1 formMain, string prodId = "")
+        public Modify(string type, Form1 formMain, string prodId)
         {
             InitializeComponent();
             this.type = type;

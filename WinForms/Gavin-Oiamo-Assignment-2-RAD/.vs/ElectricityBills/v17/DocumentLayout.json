@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\gmoia\\OneDrive\\Desktop\\Coding stuff\\School\\CSharp\\WinForms\\Gavin-Oiamo-Assignment-2-RAD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EFC8DE36-0D0F-4BD4-9F3F-C7DDBA2E9291}|Gavin-Oiamo-Assignment-2-RAD\\ElectricityBills.csproj|c:\\users\\gmoia\\onedrive\\desktop\\coding stuff\\school\\csharp\\winforms\\gavin-oiamo-assignment-2-rad\\gavin-oiamo-assignment-2-rad\\electricity bills.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFC8DE36-0D0F-4BD4-9F3F-C7DDBA2E9291}|Gavin-Oiamo-Assignment-2-RAD\\ElectricityBills.csproj|solutionrelative:gavin-oiamo-assignment-2-rad\\electricity bills.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EFC8DE36-0D0F-4BD4-9F3F-C7DDBA2E9291}|Gavin-Oiamo-Assignment-2-RAD\\ElectricityBills.csproj|c:\\users\\gmoia\\onedrive\\desktop\\coding stuff\\school\\csharp\\winforms\\gavin-oiamo-assignment-2-rad\\gavin-oiamo-assignment-2-rad\\electricity bills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFC8DE36-0D0F-4BD4-9F3F-C7DDBA2E9291}|Gavin-Oiamo-Assignment-2-RAD\\ElectricityBills.csproj|solutionrelative:gavin-oiamo-assignment-2-rad\\electricity bills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFC8DE36-0D0F-4BD4-9F3F-C7DDBA2E9291}|Gavin-Oiamo-Assignment-2-RAD\\ElectricityBills.csproj|c:\\users\\gmoia\\onedrive\\desktop\\coding stuff\\school\\csharp\\winforms\\gavin-oiamo-assignment-2-rad\\gavin-oiamo-assignment-2-rad\\electricity bills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EFC8DE36-0D0F-4BD4-9F3F-C7DDBA2E9291}|Gavin-Oiamo-Assignment-2-RAD\\ElectricityBills.csproj|C:\\Users\\gmoia\\OneDrive\\Desktop\\Coding stuff\\School\\CSharp\\WinForms\\Gavin-Oiamo-Assignment-2-RAD\\gavin-oiamo-assignment-2-rad\\electricity bills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EFC8DE36-0D0F-4BD4-9F3F-C7DDBA2E9291}|Gavin-Oiamo-Assignment-2-RAD\\ElectricityBills.csproj|solutionrelative:gavin-oiamo-assignment-2-rad\\electricity bills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20A52820-085C-46B1-A4F9-EC9B8E378501}|Customer\\CustomerData.csproj|c:\\users\\gmoia\\onedrive\\desktop\\coding stuff\\school\\csharp\\winforms\\gavin-oiamo-assignment-2-rad\\customer\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20A52820-085C-46B1-A4F9-EC9B8E378501}|Customer\\CustomerData.csproj|solutionrelative:customer\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC8DE36-0D0F-4BD4-9F3F-C7DDBA2E9291}|Gavin-Oiamo-Assignment-2-RAD\\ElectricityBills.csproj|c:\\users\\gmoia\\onedrive\\desktop\\coding stuff\\school\\csharp\\winforms\\gavin-oiamo-assignment-2-rad\\gavin-oiamo-assignment-2-rad\\electricity bills.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC8DE36-0D0F-4BD4-9F3F-C7DDBA2E9291}|Gavin-Oiamo-Assignment-2-RAD\\ElectricityBills.csproj|solutionrelative:gavin-oiamo-assignment-2-rad\\electricity bills.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,37 +26,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\gmoia\\OneDrive\\Desktop\\Coding stuff\\School\\CSharp\\WinForms\\Gavin-Oiamo-Assignment-2-RAD\\Customer\\Customer.cs",
+              "RelativeDocumentMoniker": "Customer\\Customer.cs",
+              "ToolTip": "C:\\Users\\gmoia\\OneDrive\\Desktop\\Coding stuff\\School\\CSharp\\WinForms\\Gavin-Oiamo-Assignment-2-RAD\\Customer\\Customer.cs",
+              "RelativeToolTip": "Customer\\Customer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T18:12:54.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Electricity bills.Designer.cs",
               "DocumentMoniker": "C:\\Users\\gmoia\\OneDrive\\Desktop\\Coding stuff\\School\\CSharp\\WinForms\\Gavin-Oiamo-Assignment-2-RAD\\Gavin-Oiamo-Assignment-2-RAD\\Electricity bills.Designer.cs",
               "RelativeDocumentMoniker": "Gavin-Oiamo-Assignment-2-RAD\\Electricity bills.Designer.cs",
               "ToolTip": "C:\\Users\\gmoia\\OneDrive\\Desktop\\Coding stuff\\School\\CSharp\\WinForms\\Gavin-Oiamo-Assignment-2-RAD\\Gavin-Oiamo-Assignment-2-RAD\\Electricity bills.Designer.cs",
               "RelativeToolTip": "Gavin-Oiamo-Assignment-2-RAD\\Electricity bills.Designer.cs",
-              "ViewState": "AQIAAFAAAAAAAAAAAEBlwBYAAAApAAAA",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAABYAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-03T18:34:25.164Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Electricity bills.cs",
               "DocumentMoniker": "C:\\Users\\gmoia\\OneDrive\\Desktop\\Coding stuff\\School\\CSharp\\WinForms\\Gavin-Oiamo-Assignment-2-RAD\\Gavin-Oiamo-Assignment-2-RAD\\Electricity bills.cs",
               "RelativeDocumentMoniker": "Gavin-Oiamo-Assignment-2-RAD\\Electricity bills.cs",
               "ToolTip": "C:\\Users\\gmoia\\OneDrive\\Desktop\\Coding stuff\\School\\CSharp\\WinForms\\Gavin-Oiamo-Assignment-2-RAD\\Gavin-Oiamo-Assignment-2-RAD\\Electricity bills.cs",
               "RelativeToolTip": "Gavin-Oiamo-Assignment-2-RAD\\Electricity bills.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADwAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-03T18:32:41.904Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Electricity bills.cs [Design]",
               "DocumentMoniker": "C:\\Users\\gmoia\\OneDrive\\Desktop\\Coding stuff\\School\\CSharp\\WinForms\\Gavin-Oiamo-Assignment-2-RAD\\Gavin-Oiamo-Assignment-2-RAD\\Electricity bills.cs",
               "RelativeDocumentMoniker": "Gavin-Oiamo-Assignment-2-RAD\\Electricity bills.cs",

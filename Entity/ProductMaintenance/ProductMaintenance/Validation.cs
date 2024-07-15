@@ -68,6 +68,7 @@ namespace ProductMaintenance
         /// <returns></returns>
         public bool checkIsSentence(string str, string name)
         {
+            
             bool success = true;
             try
             {

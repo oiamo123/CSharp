@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Configuration;
 using Microsoft.EntityFrameworkCore;
 using ProductMaintenance.Models;
 
@@ -29,7 +30,8 @@ public partial class TechSupportContext : DbContext
     public virtual DbSet<Technician> Technicians { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        => optionsBuilder.UseSqlServer("Data Source=LAPTOP-EIT06H1F\\SQLEXPRESS;Initial Catalog=TechSupport;Integrated Security=True;Trust Server Certificate=True");
+        => optionsBuilder.UseSqlServer(ConfigurationManager.ConnectionStrings["ProductMaintenanceConnection"]
+            .ConnectionString).UseLazyLoadingProxies();
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {

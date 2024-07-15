@@ -1,12 +1,86 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\gmoia\\OneDrive\\Desktop\\Coding stuff\\School\\CSharp\\Entity\\ProductMaintenance\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4B33E0-D5B3-446F-9A4E-A82A31089B52}|ProductMaintenance\\ProductMaintenance.csproj|c:\\users\\gmoia\\onedrive\\desktop\\coding stuff\\school\\csharp\\entity\\productmaintenance\\productmaintenance\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4B33E0-D5B3-446F-9A4E-A82A31089B52}|ProductMaintenance\\ProductMaintenance.csproj|solutionrelative:productmaintenance\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4B33E0-D5B3-446F-9A4E-A82A31089B52}|ProductMaintenance\\ProductMaintenance.csproj|C:\\Users\\gmoia\\OneDrive\\Desktop\\Coding stuff\\School\\CSharp\\Entity\\ProductMaintenance\\productmaintenance\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C4B33E0-D5B3-446F-9A4E-A82A31089B52}|ProductMaintenance\\ProductMaintenance.csproj|solutionrelative:productmaintenance\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4B33E0-D5B3-446F-9A4E-A82A31089B52}|ProductMaintenance\\ProductMaintenance.csproj|c:\\users\\gmoia\\onedrive\\desktop\\coding stuff\\school\\csharp\\entity\\productmaintenance\\productmaintenance\\modify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4B33E0-D5B3-446F-9A4E-A82A31089B52}|ProductMaintenance\\ProductMaintenance.csproj|solutionrelative:productmaintenance\\modify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4B33E0-D5B3-446F-9A4E-A82A31089B52}|ProductMaintenance\\ProductMaintenance.csproj|c:\\users\\gmoia\\onedrive\\desktop\\coding stuff\\school\\csharp\\entity\\productmaintenance\\productmaintenance\\modify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C4B33E0-D5B3-446F-9A4E-A82A31089B52}|ProductMaintenance\\ProductMaintenance.csproj|solutionrelative:productmaintenance\\modify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Modify.cs",
+              "DocumentMoniker": "C:\\Users\\gmoia\\OneDrive\\Desktop\\Coding stuff\\School\\CSharp\\Entity\\ProductMaintenance\\ProductMaintenance\\Modify.cs",
+              "RelativeDocumentMoniker": "ProductMaintenance\\Modify.cs",
+              "ToolTip": "C:\\Users\\gmoia\\OneDrive\\Desktop\\Coding stuff\\School\\CSharp\\Entity\\ProductMaintenance\\ProductMaintenance\\Modify.cs",
+              "RelativeToolTip": "ProductMaintenance\\Modify.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAAAI4AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T17:31:35.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Modify.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gmoia\\OneDrive\\Desktop\\Coding stuff\\School\\CSharp\\Entity\\ProductMaintenance\\ProductMaintenance\\Modify.cs",
+              "RelativeDocumentMoniker": "ProductMaintenance\\Modify.cs",
+              "ToolTip": "C:\\Users\\gmoia\\OneDrive\\Desktop\\Coding stuff\\School\\CSharp\\Entity\\ProductMaintenance\\ProductMaintenance\\Modify.cs [Design]",
+              "RelativeToolTip": "ProductMaintenance\\Modify.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T17:31:24.242Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\gmoia\\OneDrive\\Desktop\\Coding stuff\\School\\CSharp\\Entity\\ProductMaintenance\\ProductMaintenance\\Form1.cs",
+              "RelativeDocumentMoniker": "ProductMaintenance\\Form1.cs",
+              "ToolTip": "C:\\Users\\gmoia\\OneDrive\\Desktop\\Coding stuff\\School\\CSharp\\Entity\\ProductMaintenance\\ProductMaintenance\\Form1.cs",
+              "RelativeToolTip": "ProductMaintenance\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T20:23:02.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gmoia\\OneDrive\\Desktop\\Coding stuff\\School\\CSharp\\Entity\\ProductMaintenance\\ProductMaintenance\\Form1.cs",
+              "RelativeDocumentMoniker": "ProductMaintenance\\Form1.cs",
+              "ToolTip": "C:\\Users\\gmoia\\OneDrive\\Desktop\\Coding stuff\\School\\CSharp\\Entity\\ProductMaintenance\\ProductMaintenance\\Form1.cs [Design]",
+              "RelativeToolTip": "ProductMaintenance\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T20:22:54.449Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
