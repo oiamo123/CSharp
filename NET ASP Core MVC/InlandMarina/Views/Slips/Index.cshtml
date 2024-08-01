@@ -1,0 +1,110 @@
+﻿@model IEnumerable<InlandMarinaData.Slip>
+
+@{
+    ViewData["Title"] = "Inland Marina - Slips";
+}
+
+    <div class="container row w-75 align-items-center filter-container">
+        <h1 class="col">Slips</h1>
+        <div class="custom-select col">
+            <button class="select-button">Select Filter</button>
+            <div class="select-options hidden">
+            <a href="@Url.Action("Index", new { id = ViewBag.DockID, filter = 1 })" class="@(ViewBag.CurrentFilter == 1 ? "selected" : "")">Length Descending</a>
+            <a href="@Url.Action("Index", new { id = ViewBag.DockID, filter = 2 })" class="@(ViewBag.CurrentFilter == 2 ? "selected" : "")">Length Ascending</a>
+            <a href="@Url.Action("Index", new { id = ViewBag.DockID, filter = 3 })" class="@(ViewBag.CurrentFilter == 3 ? "selected" : "")">Width Descending</a>
+            <a href="@Url.Action("Index", new { id = ViewBag.DockID, filter = 4 })" class="@(ViewBag.CurrentFilter == 4 ? "selected" : "")">Width Ascending</a>
+            <a href="@Url.Action("Index", new { id = 1, filter = 5 })" class="@(ViewBag.CurrentFilter == 5 ? "selected" : "")">Dock 1</a>
+            <a href="@Url.Action("Index", new { id = 2,filter = 6 })" class="@(ViewBag.CurrentFilter == 6 ? "selected" : "")">Dock 2</a>
+            <a href="@Url.Action("Index", new { id = 3, filter = 7 })" class="@(ViewBag.CurrentFilter == 7 ? "selected" : "")">Dock 3</a>
+            </div>
+        </div>
+    </div>
+@{
+    if (User.IsInRole("Admin"))
+    {
+        <a class="btn btn-primary btn-create col" href=Admin/Create/ >Create</a>
+    }
+}
+
+
+
+<table>
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Width)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Length)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Dock)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ID)
+            </td>
+            <td>
+                    @Html.DisplayFor(modelItem => item.Width) FT
+            </td>
+            <td>
+                    @Html.DisplayFor(modelItem => item.Length) FT
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Dock.Name)
+            </td>
+            <td class="slips-buttons">
+                @{
+                  if (User.IsInRole("Admin"))
+                  {
+                      <a class="btn btn-primary" href=/Admin/Edit/@(item.ID)>Edit</a>
+                      <a class="btn btn-danger" href=/Admin/Delete/@(item.ID)>Delete</a>
+                  }
+                  else
+                  {
+                      if (User.Identity.IsAuthenticated)
+                      {
+                       <a class="btn btn-primary" asp-controller="Slips" asp-action="Details" asp-route-id="@item.ID">Reserve</a>
+                      }
+                      else
+                      {
+                       <a class="btn btn-primary" asp-action="Login" asp-area="Identity" asp-controller="Account">Reserve</a>
+                      }
+                  } 
+                 }
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+<ul class="pagination justify-content-center">    
+    @for (var i = 0; i < ViewBag.numDocks; i++)
+    {
+        <li class="page-item"><a class="page-link" asp-action="Index" asp-route-id="@(i + 1)">@(i + 1)</a></li>
+    }
+</ul>
+
+<script>
+    const selectButton = document.querySelector('.select-button');
+    const selectOptions = document.querySelector('.select-options');
+
+    document.addEventListener('DOMContentLoaded', function () {
+        selectButton.addEventListener('click', function () {
+            selectOptions.classList.toggle('hidden');
+        });
+        selectOptions.style.width = `${selectButton.getBoundingClientRect().width}px`;
+    });
+
+    window.addEventListener("resize", function () {
+        selectOptions.style.width = `${selectButton.getBoundingClientRect().width}px`;
+    });
+</script>

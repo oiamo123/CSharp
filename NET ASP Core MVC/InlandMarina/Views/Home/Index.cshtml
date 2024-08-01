@@ -1,0 +1,119 @@
+﻿@using System.Web;
+@{
+    ViewData["Title"] = "Home Page";
+    // Home/Index or Home
+}
+<div id="mainCarousel" class="carousel slide">
+    <div class="carousel-indicators">
+        <button type="button" data-bs-target="#mainCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+        <button type="button" data-bs-target="#mainCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
+        <button type="button" data-bs-target="#mainCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
+    </div>
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <img src="Images/carousel-1.jpg" class="d-block w-100" alt="...">
+            <div class="carousel-caption d-none d-md-block">
+                <h5>Spacious Slips Available</h5>
+                <p>Our marina offers a variety of slip sizes to accommodate boats of all types and sizes. Enjoy secure and convenient docking with access to all marina amenities.</p>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <img src="Images/carousel-2.jpg" class="d-block w-100" alt="...">
+            <div class="carousel-caption d-none d-md-block">
+                <h5>Exclusive Membership Benefits</h5>
+                <p>Join our membership program to enjoy discounted rates, priority slip reservations, and access to exclusive events. Experience the best of our marina with added perks and privileges.</p>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <img src="Images/carousel-3.jpg" class="d-block w-100" alt="...">
+            <div class="carousel-caption d-none d-md-block">
+                <h5>Prime Location</h5>
+                <p>Located in a prime waterfront area, our marina provides easy access to open waters and nearby attractions. Perfect for both recreational and professional boaters.</p>
+            </div>
+        </div>
+    </div>
+    <button class="carousel-control-prev z-3" type="button" data-bs-target="#mainCarousel" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next z-3" type="button" data-bs-target="#mainCarousel" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+    </button>
+</div>
+<div class="container">
+    <div class="row">
+        <div class="col-12">
+            <div class="accordion" id="mainAccordion">
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                            Registering an Account
+                        </button>
+                    </h2>
+                    <div id="collapseOne" class="accordion-collapse collapse" data-bs-parent="#mainAccordion">
+                        <div class="accordion-body">
+                            Creating an account with Inland Marina is quick and easy. Simply click on the "Register" button at the top right corner of our homepage and fill in your personal details. Once you submit the form, you'll receive a confirmation email. Click on the link in the email to activate your account, and you're all set to enjoy our services!
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                            Signing In
+                        </button>
+                    </h2>
+                    <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#mainAccordion">
+                        <div class="accordion-body">
+                            Already have an account? Click on the "Sign In" button at the top right corner of our homepage. Enter your email and password to access your account. From your account dashboard, you can manage your bookings, view your transaction history, and update your personal information.
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                            Booking Slips
+                        </button>
+                    </h2>
+                    <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#mainAccordion">
+                        <div class="accordion-body">
+                            Booking a slip at Inland Marina is simple. After signing in to your account, navigate to the "Book a Slip" section. Select your preferred slip size and rental period from the available options, then proceed to checkout. You will receive a confirmation email with your booking details. Our team will ensure your slip is ready for your arrival.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="container row">
+    <h1>Our Employees</h1>
+    <h5>At Inland Marina, customer satisfaction is our top priority. Our friendly staff is here to assist you with all your boating needs, ensuring a seamless and enjoyable experience. Thank you for choosing us!</h5>
+    <div class="card col" style="width: 18rem;">
+        <img src="Images/person-1.jpg" class="card-img-top" alt="...">
+        <div class="card-body">
+            <h5 class="card-title">Michael Myers</h5>
+            <p class="card-text">Mike is our Dock Manager with over 15 years of experience in the marina industry. His expertise ensures that every boat is safely docked and that all our operations run smoothly.</p>
+            <a asp-action="Contact" class="btn btn-primary">Contact</a>
+        </div>
+    </div>
+    <div class="card col" style="width: 18rem;">
+        <img src="Images/person-2.jpg" class="card-img-top" alt="...">
+        <div class="card-body">
+            <h5 class="card-title">Pam Beesly</h5>
+            <p class="card-text">Pam is our Customer Relations Specialist. She is dedicated to providing exceptional service and making sure our customers have a great experience at our marina.</p>
+            <a asp-action="Contact" class="btn btn-primary">Contact</a>
+        </div>
+    </div>
+    <div class="card col" style="width: 18rem;">
+        <img src="Images/person-3.jpg" class="card-img-top" alt="...">
+        <div class="card-body">
+            <h5 class="card-title">Michael Scott</h5>
+            <p class="card-text">Michael is our Maintenance Supervisor. He oversees the upkeep of our facilities and ensures that everything is in perfect working order for our customers.</p>
+            <a asp-action="Contact" class="btn btn-primary">Contact</a>
+        </div>
+    </div>
+</div>
+
+

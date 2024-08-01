@@ -1,0 +1,12 @@
+﻿@{
+    ViewData["Title"] = "Confirmation";
+}
+
+<div class="confirmation">
+    <h4>Confirmation</h4>
+    <p>Are you sure you want to remove this Lease?</p>
+    <div class="buttons">
+        <a class="btn btn-danger col" asp-action="Remove" asp-route-id="@(ViewBag.Id)">Confirm</a>
+        <a class="btn btn-primary col" asp-action="Index">Return</a>
+    </div>
+</div>

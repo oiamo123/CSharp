@@ -1,0 +1,39 @@
+﻿@model InlandMarinaData.Slip
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Slip</h4>
+<hr />
+<div>
+    <div>
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div>
+                <label asp-for="Width" class="control-label"></label>
+                <input asp-for="Width" class="form-control" />
+                <span asp-validation-for="Width" class="text-danger"></span>
+            </div>
+            <div>
+                <label asp-for="Length" class="control-label"></label>
+                <input asp-for="Length" class="form-control" />
+                <span asp-validation-for="Length" class="text-danger"></span>
+            </div>
+            <div>
+                <label asp-for="DockID" class="control-label"></label>
+                <select asp-for="DockID" class ="form-control" asp-items="ViewBag.DockID"></select>
+            </div>
+            <div class="buttons">
+                <a type="submit" href="/Admin/Create" class="btn btn-primary">Create</a>
+                <a class="btn btn-primary" asp-area="" asp-controller="Slips" asp-action="Index">Back</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

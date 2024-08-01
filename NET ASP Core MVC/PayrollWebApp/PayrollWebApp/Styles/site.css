@@ -1,0 +1,31 @@
+﻿body {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    width: 600px;
+}
+
+div h1 {
+    text-align: center;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+tables {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+#lblMessage {
+    color: red;
+    font-weight: bold;
+}

@@ -261,3 +261,11 @@ Assert: verify that the method behaves as expected
 
 ASP.NET Core MVC
 .NET Blazor
+
+Delegates:
+ - A delegate is a type that can refer to methods with a specific return type and parameter list (signature)
+ - Delegates are used in LINQ
+ - Common use is to create programmer defined events
+ - To use a delegate, you create it's instance and define a method that it will use.
+
+

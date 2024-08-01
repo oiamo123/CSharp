@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\gmoia\\OneDrive\\Desktop\\Coding stuff\\School\\CSharp\\Entity\\ProductMaintenance\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3C4B33E0-D5B3-446F-9A4E-A82A31089B52}|ProductMaintenance\\ProductMaintenance.csproj|c:\\users\\gmoia\\onedrive\\desktop\\coding stuff\\school\\csharp\\entity\\productmaintenance\\productmaintenance\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3C4B33E0-D5B3-446F-9A4E-A82A31089B52}|ProductMaintenance\\ProductMaintenance.csproj|solutionrelative:productmaintenance\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4B33E0-D5B3-446F-9A4E-A82A31089B52}|ProductMaintenance\\ProductMaintenance.csproj|c:\\users\\gmoia\\onedrive\\desktop\\coding stuff\\school\\csharp\\entity\\productmaintenance\\productmaintenance\\data\\techsupportcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4B33E0-D5B3-446F-9A4E-A82A31089B52}|ProductMaintenance\\ProductMaintenance.csproj|solutionrelative:productmaintenance\\data\\techsupportcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3C4B33E0-D5B3-446F-9A4E-A82A31089B52}|ProductMaintenance\\ProductMaintenance.csproj|c:\\users\\gmoia\\onedrive\\desktop\\coding stuff\\school\\csharp\\entity\\productmaintenance\\productmaintenance\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C4B33E0-D5B3-446F-9A4E-A82A31089B52}|ProductMaintenance\\ProductMaintenance.csproj|solutionrelative:productmaintenance\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,7 +23,7 @@
       "RelativeMoniker": "D:0:0:{3C4B33E0-D5B3-446F-9A4E-A82A31089B52}|ProductMaintenance\\ProductMaintenance.csproj|solutionrelative:productmaintenance\\modify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C4B33E0-D5B3-446F-9A4E-A82A31089B52}|ProductMaintenance\\ProductMaintenance.csproj|c:\\users\\gmoia\\onedrive\\desktop\\coding stuff\\school\\csharp\\entity\\productmaintenance\\productmaintenance\\modify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3C4B33E0-D5B3-446F-9A4E-A82A31089B52}|ProductMaintenance\\ProductMaintenance.csproj|C:\\Users\\gmoia\\OneDrive\\Desktop\\Coding stuff\\School\\CSharp\\Entity\\ProductMaintenance\\productmaintenance\\modify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3C4B33E0-D5B3-446F-9A4E-A82A31089B52}|ProductMaintenance\\ProductMaintenance.csproj|solutionrelative:productmaintenance\\modify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -26,11 +34,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\gmoia\\OneDrive\\Desktop\\Coding stuff\\School\\CSharp\\Entity\\ProductMaintenance\\ProductMaintenance\\App.config",
+              "RelativeDocumentMoniker": "ProductMaintenance\\App.config",
+              "ToolTip": "C:\\Users\\gmoia\\OneDrive\\Desktop\\Coding stuff\\School\\CSharp\\Entity\\ProductMaintenance\\ProductMaintenance\\App.config",
+              "RelativeToolTip": "ProductMaintenance\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-19T19:29:07.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TechSupportContext.cs",
+              "DocumentMoniker": "C:\\Users\\gmoia\\OneDrive\\Desktop\\Coding stuff\\School\\CSharp\\Entity\\ProductMaintenance\\ProductMaintenance\\Data\\TechSupportContext.cs",
+              "RelativeDocumentMoniker": "ProductMaintenance\\Data\\TechSupportContext.cs",
+              "ToolTip": "C:\\Users\\gmoia\\OneDrive\\Desktop\\Coding stuff\\School\\CSharp\\Entity\\ProductMaintenance\\ProductMaintenance\\Data\\TechSupportContext.cs",
+              "RelativeToolTip": "ProductMaintenance\\Data\\TechSupportContext.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T19:29:01.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Modify.cs",
               "DocumentMoniker": "C:\\Users\\gmoia\\OneDrive\\Desktop\\Coding stuff\\School\\CSharp\\Entity\\ProductMaintenance\\ProductMaintenance\\Modify.cs",
               "RelativeDocumentMoniker": "ProductMaintenance\\Modify.cs",
@@ -43,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Modify.cs [Design]",
               "DocumentMoniker": "C:\\Users\\gmoia\\OneDrive\\Desktop\\Coding stuff\\School\\CSharp\\Entity\\ProductMaintenance\\ProductMaintenance\\Modify.cs",
               "RelativeDocumentMoniker": "ProductMaintenance\\Modify.cs",
@@ -55,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\gmoia\\OneDrive\\Desktop\\Coding stuff\\School\\CSharp\\Entity\\ProductMaintenance\\ProductMaintenance\\Form1.cs",
               "RelativeDocumentMoniker": "ProductMaintenance\\Form1.cs",
@@ -68,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\gmoia\\OneDrive\\Desktop\\Coding stuff\\School\\CSharp\\Entity\\ProductMaintenance\\ProductMaintenance\\Form1.cs",
               "RelativeDocumentMoniker": "ProductMaintenance\\Form1.cs",

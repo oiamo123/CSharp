@@ -1,0 +1,308 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+table {
+    caption-side: bottom;
+    border-collapse: collapse;
+    margin: 2rem 0;
+}
+
+tbody td, thead th {
+    width: 10rem;
+}
+
+.btn {
+    padding: 4px 24px;
+    margin: 0;
+}
+
+thead {
+    font-size: 18px;
+}
+
+tbody tr {
+    border-bottom: 1px solid lightgray;
+}
+
+.buttons, .slips-buttons {
+    display: flex;
+    gap: 1rem;
+    margin: 4px 0;
+    justify-content: flex-end;
+}
+
+.buttons {
+    width: 100%;
+    justify-content: space-between;
+}
+
+tbody td:last-child {
+    width: 20rem;
+}
+
+.btn-primary {
+    background-color: #64748b;
+    border: none;
+}
+
+.pagination {
+    gap: 1rem;
+}
+
+.page-item .page-link {
+    border-radius: 4px;
+    background-color: #64748b;
+    color: white;
+}
+
+.page-item .page-link:hover {
+    background-color: #0b5ed7;
+}
+
+.carousel {
+    width: 99.1vw;
+    margin-top: -10rem;
+}
+
+.carousel img {
+    max-height: 100vh;
+}
+
+nav {
+    z-index: 9999;
+}
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.6);
+    border-radius: 6px;
+}
+
+.container {
+    gap: 2rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.card {
+    padding: 1rem;
+}
+
+.accordion {
+    width: 100%;
+}
+
+.filter-container {
+    height: 2rem;
+}
+
+.select-options {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+    background-color: white;
+}
+
+.select-options a {
+    text-decoration: none;
+    color: black;
+}
+
+.select-button {
+    width: 100%;
+    background-color: white;
+    text-align: start;
+    position: relative;
+}
+
+.custom-select button::before {
+    content: '';
+    width: 0px;
+    height: 0px;
+    border-style: solid;
+    border-width: 0 6px 6px 6px;
+    border-color: transparent transparent #000000 transparent;
+    transform: rotate(0deg);
+    position: absolute;
+    right: 5%;
+    top: 7%;
+    transform: translateY(50%);
+}
+
+.custom-select button::after {
+    content: '';
+    width: 0px;
+    height: 0px;
+    border-style: solid;
+    border-width: 0 6px 6px 6px;
+    border-color: transparent transparent #000000 transparent;
+    transform: rotate(0deg);
+    position: absolute;
+    right: 5%;
+    bottom: 20%;
+    transform: rotate(180deg);
+}
+
+.hidden {
+    display: none;
+}
+
+.custom-select a {
+    width: 100%;
+    border-right: 2px solid black;
+    border-left: 2px solid black;
+    padding: 0 1rem;
+}
+
+.custom-select a:nth-last-child(1)
+{
+    border-bottom: 2px solid black;
+}
+
+.custom-select a:hover {
+    background-color: #64748b;
+    color: white;
+}
+
+.selected {
+    background-color: #0b5ed7;
+    color: white;
+}
+
+header {
+    position: relative;
+}
+
+nav img {
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    transform: translateX(-50%);
+    height: 3rem;
+}
+
+.btn-create {
+    width: 6rem;
+    align-self: flex-start;
+    margin-left: 12rem;
+}
+
+.confirmation {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    transform: translateY(-50%);
+    position: absolute;
+    top: 50%;
+    padding: 2rem;
+    border-radius: 6px;
+    box-shadow: 0px 0px 5px 5px rgba(0, 0, 0, 0.1)
+}
+
+.confirmation .buttons {
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn-danger {
+    border: none;
+}
+
+.error-container {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    text-align: center;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+}
+
+#registerForm {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 0;
+}
+
+#registerForm .form-floating {
+    width: 100%;
+}
+
+#registerForm input {
+    width: 100%;
+}
+
+#registerForm button {
+    align-self: flex-start;
+}
+
+#account {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 0;
+}
+
+#account .form-floating {
+    width: 100%;
+}
+
+#account input {
+    width: 100%;
+}
+
+#account button {
+    align-self: flex-start;
+}
+
+#account .checkbox .form-label {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    gap: 16px;
+}
+
+#account .checkbox input {
+    width: 16px;
+    height: 16px;
+}
+
+#account p a {
+    margin: 0;
+}
+
+#account p {
+    margin: 10px 0;
+}

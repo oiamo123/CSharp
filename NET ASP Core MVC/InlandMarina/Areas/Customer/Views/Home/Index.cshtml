@@ -1,0 +1,52 @@
+﻿@using InlandMarinaData;
+
+@model IEnumerable<InlandMarinaData.Lease>
+
+@{
+    ViewData["Title"] = "Leases";
+}
+
+<div class="container row w-75 align-items-center filter-container">
+    <h1 class="col">Your Leases</h1>
+</div>
+<table>
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Slip.ID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Slip.Width)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Slip.Length)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Slip.Dock)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Slip.ID)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Slip.Width) FT
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Slip.Length) FT
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Slip.Dock.Name)
+                </td>
+                <td class="buttons">
+                    <a class="btn btn-danger" href=/Customer/Confirmation/@(item.ID)>Remove</a>         
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
